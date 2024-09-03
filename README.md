@@ -1,4 +1,4 @@
-## Hi there 👋 i´m # Jose-Antonio-Cano
+## Hi there 👋 i´m Jose-Antonio-Cano
 
 
 # Jose-Antonio-Cano
