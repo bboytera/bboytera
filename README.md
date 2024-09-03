@@ -8,6 +8,7 @@
 - Data Scientist
 - Physical therapist
 - Zhineng Qigong Instructor
+- b boy
 
   💬 Ask me about **Phyton, Pandas, Matplotlib, Scikit-learn, analisis de datos, SQL**
 
