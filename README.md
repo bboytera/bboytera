@@ -13,7 +13,7 @@
   💬 Ask me about **Phyton, Pandas, Matplotlib, Scikit-learn, analisis de datos, SQL**
 
   
-  :heartbeat: Me encanta el desafio descubrir nuevas formas de escribir codigo para automatizar mi trabajo, ya que me apasiona la logica de programacion. 
+  :heartbeat:I love the challenge of discovering new ways to write code to automate my work, as I am passionate about programming logic.
   :detective:
  
 
