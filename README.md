@@ -9,7 +9,7 @@
 - Physical therapist
 - Zhineng Qigong Instructor
 
-  💬 Ask me about **Phyton, Pandas, Matplotlib, Scikit-learn, analisis de datos**
+  💬 Ask me about **Phyton, Pandas, Matplotlib, Scikit-learn, analisis de datos, sql**
 
   
   :heartbeat: Me encanta el desafio descubrir nuevas formas de escribir codigo para automatizar mi trabajo, ya que me apasiona la logica de programacion. 
