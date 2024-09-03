@@ -1,4 +1,4 @@
-## Hi there 👋 i´m Jose Antonio Cano Román ![image](https://github.com/user-attachments/assets/e5d05027-da3d-4d9d-af5c-a4bea3b4268d)
+## Hi there 👋 i´m # Jose-Antonio-Cano
 
 
 # Jose-Antonio-Cano
