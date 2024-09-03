@@ -1,6 +1,7 @@
 
 
-# Jose-Antonio-Cano                                                                                       ![image](https://github.com/user-attachments/assets/26ae521d-f976-45a4-9c0e-0af6d8453389)
+# Jose-Antonio-Cano                                                                                      
+![image](https://github.com/user-attachments/assets/26ae521d-f976-45a4-9c0e-0af6d8453389)
 
 ![Black Minimal Motivation Quote LinkedIn Banner](https://github.com/user-attachments/assets/021371e6-fb86-43e2-94af-e6793b93bfbd)
 
