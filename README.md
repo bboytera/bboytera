@@ -12,7 +12,7 @@
 - Zhineng Qigong Instructor
 - b_boy
 
-  💬 Ask me about **Phyton, Pandas, Matplotlib, Scikit-learn, analisis de datos, SQL**
+  💬 Ask me about **Phyton, Pandas, SQL, Matplotlib, Analisis de datos, Scikit-learn, Machine learning, Deep learning**
 
   
   :heartbeat:I love the challenge of discovering new ways to write code to automate my work, as I am passionate about programming logic.
